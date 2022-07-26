@@ -1,3 +1,3 @@
-# flask-random
+# Simple Flask-App
 
 test deploying flask apps 
